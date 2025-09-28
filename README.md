@@ -6,3 +6,10 @@
 > - 123
 > - 1234
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberIncreasingPyramid.js)
+
+# 2. Reverse Number Increasing Pyramid
+> - 1234
+> - 123
+> - 12
+> - 1
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberIncreasingReversePyramid.js)
