@@ -13,3 +13,10 @@
 > - 1 2
 > - 1
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberIncreasingReversePyramid.js)
+
+# 2. Number Changing Pyramid
+> - 1 
+> - 2 3
+> - 4 5 6 
+> - 7 8 9 10
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberIncreasingReversePyramid.js)
