@@ -5,3 +5,4 @@
 > - 12
 > - 123
 > - 1234
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberIncreasingPyramid.js)
