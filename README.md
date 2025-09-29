@@ -14,9 +14,16 @@
 > - 1
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberIncreasingReversePyramid.js)
 
-# 2. Number Changing Pyramid
+# 3. Number Changing Pyramid
 > - 1 
 > - 2 3
 > - 4 5 6 
 > - 7 8 9 10
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/numberChangingPyramid.js)
+
+# 4. ZERO-ONE Triangle
+> - 0 
+> - 1 0
+> - 0 1 0 
+> - 1 0 1 0
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/Zero-OneTriangle.js)
