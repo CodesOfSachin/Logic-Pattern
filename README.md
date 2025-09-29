@@ -28,10 +28,18 @@
 > - 1 0 1 0
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/Zero-OneTriangle.js)
 
-# 5. ZERO-ONE Triangle
+# 5. Right Half Pyramid
 > - \* 
 > - \* \* 
 > - \* \* \*
 > - \* \* \* \*
 > - \* \* \* \* \*
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/rightHalfPyramid.js)
+
+# 5. Reverse Right Half Pyramid
+> - \* \* \* \* \* 
+> - \* \* \* \* 
+> - \* \* \*
+> - \* \*
+> - \*
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/reverseRightHalfPyramid.js)
