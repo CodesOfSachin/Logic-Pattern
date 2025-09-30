@@ -36,10 +36,18 @@
 > - \* \* \* \* \*
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/rightHalfPyramid.js)
 
-# 5. Reverse Right Half Pyramid
+# 6. Reverse Right Half Pyramid
 > - \* \* \* \* \* 
 > - \* \* \* \* 
 > - \* \* \*
 > - \* \*
 > - \*
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/reverseRightHalfPyramid.js)
+
+# 7. Square Fill Pattern
+> - \* \* \* \* \* 
+> - \* \* \* \* \* 
+> - \* \* \* \* \* 
+> - \* \* \* \* \* 
+> - \* \* \* \* \* 
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/SquareFillPattern.js)
