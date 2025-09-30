@@ -51,3 +51,11 @@
 > - \* \* \* \* \* 
 > - \* \* \* \* \* 
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/SquareFillPattern.js)
+
+# 8. Square Fill Pattern
+> -     \* 
+> -    \*\* 
+> -   \*\*\* 
+> -  \*\*\*\* 
+> - \*\*\*\*\* 
+> - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/leftHalfPattern.js)
