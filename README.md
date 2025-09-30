@@ -52,10 +52,6 @@
 > - \* \* \* \* \* 
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/SquareFillPattern.js)
 
-# 8. Square Fill Pattern
-> -     \* 
-> -    \*\* 
-> -   \*\*\* 
-> -  \*\*\*\* 
-> - \*\*\*\*\* 
+# 8. Left Half Pattern
+> - ![Left Half Pattern](images/leftHalf.png) 
 > - [Solution](https://github.com/CodesOfSachin/Logic-Pattern/blob/main/leftHalfPattern.js)
